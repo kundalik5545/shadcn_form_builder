@@ -11,15 +11,15 @@ export const socialLinks = [
     icon: React.createElement(FaGithub, { className: "w-6 h-6" }),
   },
   {
-    href: "https://www.linkedin.com/in/igor-duspara-b97aa1300/",
+    href: "https://www.linkedin.com/in/randomcoder1/",
     icon: React.createElement(FaLinkedin, { className: "w-6 h-6" }),
   },
   {
-    href: "https://buymeacoffee.com/kundalik5545",
+    href: "https://buymeacoffee.com/randomcoders",
     icon: React.createElement(SiBuymeacoffee, { className: "w-6 h-6" }),
   },
   {
-    href: "https://www.producthunt.com/@kundalik5545",
+    href: "https://www.producthunt.com/@kundalik_jadhav",
     icon: React.createElement(FaProductHunt, { className: "w-6 h-6" }),
   },
 ];
